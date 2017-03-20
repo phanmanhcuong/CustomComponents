@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RedView">
+        <attr name="original_background" format="color"/>
+        <attr name="after_background" format="color"/>
+        <attr name="dimension_width" format="integer"/>
+        <attr name="dimension_height" format="integer"/>
+    </declare-styleable>
+</resources>
